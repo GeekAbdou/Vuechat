@@ -1,0 +1,30 @@
+// utility
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.hidden-sm {
+  display: none;
+}
+
+.centered {
+  text-align: center;
+  margin: 0 auto;
+}
